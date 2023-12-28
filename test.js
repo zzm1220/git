@@ -4,3 +4,4 @@ alert("hello");
 hello
 你好
 who
+这个是新的吗

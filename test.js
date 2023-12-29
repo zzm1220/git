@@ -26,3 +26,4 @@ function mul(a,b){
 function dividi(a,b){
 	return a / b;
 }
+console.log("新功能开发");

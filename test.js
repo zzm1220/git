@@ -37,5 +37,9 @@ console.log("新功能测试");
 
 console.log("master debug 解决");
 console.log("开始下一阶段开发");
+
 console.log("新的一年");
 
+
+
+console.log("2024");

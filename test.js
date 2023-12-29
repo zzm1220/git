@@ -23,7 +23,10 @@ function minus(a,b){
 function mul(a,b){
 	return a * b;
 }
-function dividi(a,b){
+function divide(int a,int b){
+	if(b == 0){
+	throw '异常';
+	}
 	return a / b;
 }
 console.log("新功能开发");

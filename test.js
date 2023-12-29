@@ -30,3 +30,4 @@ function divide(int a,int b){
 	return a / b;
 }
 console.log("新功能开发");
+console.log("新功能测试");

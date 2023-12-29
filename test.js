@@ -23,3 +23,6 @@ function minus(a,b){
 function mul(a,b){
 	return a * b;
 }
+function dividi(a,b){
+	return a / b;
+}

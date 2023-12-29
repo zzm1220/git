@@ -13,6 +13,10 @@ git 仓库修改
 这个是新的吗
 
 feature1 修改
-function(a,b) {
+
+function add(a,b) {
 	return a + b;
+}
+function minus(a,b){
+	return a - b;
 }
